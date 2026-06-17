@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Details</title>
+</head>
+<body>
+
+    <h2>Personal Details</h2>
+
+    <ul>
+        <li>Name : Shreeja</li>
+        <li>Gender : Female</li>
+        <li>E-mail ID : shreeja@gmail.com</li>
+        <li>Mobile No : 9876543210</li>
+        <li>Xth Percentage : 88%</li>
+        <li>Inter Percentage : 85%</li>
+        <li>Aggregate Percentage in B.Sc CS : 82%</li>
+    </ul>
+
+</body>
+</html>
