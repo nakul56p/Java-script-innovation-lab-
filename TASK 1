@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            text formatting tags
+        </title>
+        <body>
+        <h1>nakul/h1>
+        <p>the purpose of living is to find yourself</p> <br>
+        <strong> be consistent</strong><br>
+        <em>have love people</em><br>
+        n<sup>7</sup><br>
+        n<sub>7</sub><br>
+        <mark>effort matters</mark><br>
+        <u>stay private </u><br>
+        60000 <br><del>70</del><br>
+        <mark>be humble</mark>
+        <marquee>be you</marquee>
+        </body>
+    </head>
+</html>
